@@ -7,7 +7,7 @@ Bangladeshi No.1 SMS BOMBING TOOL
 * `apt update`
 * `apt install git python python2 -y`
 * `git clone https://github.com/mr-ovro/sms-bomber`
-* `cd NFS-BOMBER`
+* `cd sms-bomber`
 
 #### > Run : `python2 sobuj.py`
 
