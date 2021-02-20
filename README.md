@@ -6,16 +6,11 @@ Bangladeshi No.1 SMS BOMBING TOOL
 
 * `apt update`
 * `apt install git python python2 -y`
-* `git clone https://github.com/nfs-tech-bd/NFS-BOMBER`
+* `git clone https://github.com/mr-ovro/sms-bomber`
 * `cd NFS-BOMBER`
 
 #### > Run : `python2 sobuj.py`
 
 #### USERNAME : Inbox Me
 #### PASSWORD : Inbox Me
-
-
-## Single Command :
-```
-apt update ; apt install git python python2 -y ; git clone https://github.com/nfs-tech-bd/NFS-BOMBER ; cd NFS-BOMBER ; python2 NFS-BOMBER.py
 ```
